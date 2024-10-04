@@ -1,3 +1,4 @@
+![logo](https://github.com/Gaganshukla01/Gaganshukla01/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Gagan Shukla</h1>
 <h3 align="center">A passionate MERN AND JAVA developer from India</h3>
 
